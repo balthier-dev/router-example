@@ -16,7 +16,7 @@ function App() {
           <Route path="/:brand">
             <Brand />
           </Route>
-          <Route path="/">Please select brand...</Route>
+          <Route path="/">Use Menu or Direct link to route in Component with params</Route>
         </Switch>
       </Router>
     </div>

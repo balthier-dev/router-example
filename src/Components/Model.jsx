@@ -21,9 +21,7 @@ const Model = () => {
 		<div className={css(styles.container)}>
 			<h3 className={css(styles.h3)}>{model}</h3>
 			<p className={css(styles.p)}>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex velit unde
-				nemo cum veniam esse non accusamus a aliquid. Maiores possimus nam
-				doloribus labore in sequi! Officia quasi eveniet corrupti!
+				Use side menu or direct link to route page!
 			</p>
 		</div>
 	);
